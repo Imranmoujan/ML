@@ -12,7 +12,7 @@ url=https://raw.githubusercontent.com/sahilrahman12/Price_prediction_of_used_Car
 - Visualization of data distributions and relationships between variables.
 - Insights into the factors influencing Current Selling Price.
 ## Model Building:
-- Decision Tree Regressionis employed to model the relationship between the independent variables and the probability of Current Selling Price.
+- Decision Tree Regression is employed to model the relationship between the independent variables and the probability of Current Selling Price.
 - Some hyper-parameter tuning was performed to increase the accuracy of the model.
 ## Model Evaluation:
 - The model is evaluated using r2_score
@@ -33,5 +33,5 @@ To run this project, clone the repository and execute the Jupyter Notebook. Ensu
 
 ## Conclusion
 
-This project provides a comprehensive guide to using logistic regression for binary classification problems. It demonstrates the entire workflow from data preprocessing to model evaluation.
+This project demonstrates the application of machine learning techniques to predict car prices based on historical data. The Decision Tree model was initially evaluated, resulting in an R² score of 0.559. After hyperparameter tuning, the model's accuracy slightly improved, achieving an R² score of 0.562. This improvement, though modest, indicates that fine-tuning the model's parameters can enhance its predictive capabilities.
   
