@@ -9,7 +9,7 @@ The project involves the following steps:
 
 - The dataset is loaded from a public source and preprocessed for analysis.
       url=https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
-- Various preprocessing techniques are applied, including handling missing values, encoding categorical variables, and scaling features.
+- Various preprocessing techniques are applied, including handling missing values, and encoding categorical variables.
 
 ### Exploratory Data Analysis (EDA):
 
