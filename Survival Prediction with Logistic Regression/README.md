@@ -38,7 +38,8 @@ The project involves the following steps:
 
 To run this project, clone the repository and execute the Jupyter Notebook. Ensure all dependencies are installed.
 
-### Conclusion
+## Conclusion
 
-This project provides a comprehensive guide to using logistic regression for binary classification problems. It demonstrates the entire workflow from data preprocessing to model evaluation.
+This project provides a comprehensive guide to using logistic regression for binary classification problems. The final model achieved an accuracy of **82%** on the test set. This result demonstrates the model's effectiveness in predicting survival based on the available features. The workflow covered data preprocessing, feature engineering, model building, and evaluation, providing a complete example of a machine learning pipeline.
+
 
